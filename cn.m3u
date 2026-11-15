@@ -1,0 +1,1039 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" group-title="Canais",A&E
+http://STREAM_URL_AUMENTAR/A&E
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="Canais",AMC
+http://STREAM_URL_AUMENTAR/AMC
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="Canais",AXN
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 tvg-id="Agro+" tvg-name="Agro+" group-title="Canais",Agro+
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="Canais",Animal Planet
+http://STREAM_URL_AUMENTAR/Animal Planet
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" group-title="Canais",Arte 1
+http://45.177.114.115/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="BBC World" tvg-name="BBC World" group-title="Canais",BBC World
+http://STREAM_URL_AUMENTAR/BBC World
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" group-title="Canais",Band
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band RJ" tvg-name="Band RJ" group-title="Canais",Band RJ
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Bandnews" tvg-name="Bandnews" group-title="Canais",Bandnews
+https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="Bandsports" tvg-name="Bandsports" group-title="Canais",Bandsports
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="Bis" tvg-name="Bis" group-title="Canais",Bis
+http://STREAM_URL_AUMENTAR/Bis
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" group-title="Canais",Bloomberg
+http://STREAM_URL_AUMENTAR/Bloomberg
+#EXTINF:-1 tvg-id="Box Kids" tvg-name="Box Kids" group-title="Canais",Box Kids
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" group-title="Canais",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="Canal Educação" tvg-name="Canal Educação" group-title="Canais",Canal Educação
+http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" group-title="Canais",Canal Rural
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="Canal Uol" tvg-name="Canal Uol" group-title="Canais",Canal Uol
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" group-title="Canais",Canção Nova
+http://170.83.16.50/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="Canais",Cartoon Network
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" group-title="Canais",Cartoonito
+http://STREAM_URL_AUMENTAR/Cartoonito
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="Canais",Cinemax
+http://STREAM_URL_AUMENTAR/Cinemax
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" group-title="Canais",Combate
+http://143.14.134.107/167/index.m3u8
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" group-title="Canais",Curta!
+http://STREAM_URL_AUMENTAR/Curta!
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" group-title="Canais",Discovery Channel
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" group-title="Canais",Discovery Home & Health
+http://STREAM_URL_AUMENTAR/Discovery Home & Health
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" group-title="Canais",Discovery Kids
+http://STREAM_URL_AUMENTAR/Discovery Kids
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" group-title="Canais",Discovery Science
+http://STREAM_URL_AUMENTAR/Discovery Science
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" group-title="Canais",Discovery Theater
+http://STREAM_URL_AUMENTAR/Discovery Theater
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" group-title="Canais",Discovery Turbo
+http://STREAM_URL_AUMENTAR/Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" group-title="Canais",Discovery World
+http://STREAM_URL_AUMENTAR/Discovery World
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" group-title="Canais",E!
+http://STREAM_URL_AUMENTAR/E!
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Canais",ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="Canais",ESPN 2
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" group-title="Canais",ESPN 3
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" group-title="Canais",ESPN 4
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" group-title="Canais",ESPN 5
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" group-title="Canais",ESPN 6
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="Film & Arts" tvg-name="Film & Arts" group-title="Canais",Film & Arts
+http://STREAM_URL_AUMENTAR/Film & Arts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" group-title="Canais",Food Network
+http://STREAM_URL_AUMENTAR/Food Network
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" group-title="Canais",Fox News
+http://STREAM_URL_AUMENTAR/Fox News
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" group-title="Canais",Futura
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
+#EXTINF:-1 tvg-id="GE TV" tvg-name="GE TV" group-title="Canais",GE TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" group-title="Canais",GNT
+http://170.82.202.31/GNT/index.m3u8
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" group-title="Canais",Globo News
+http://79.127.238.228:14093
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="Globo Rio de Janeiro" group-title="Canais",Globo Rio de Janeiro
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" group-title="Canais",Globo SP
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" group-title="Canais",Gloob
+http://45.235.0.78/Gloob/playlist.m3u8
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" group-title="Canais",Gloobinho
+http://45.235.0.78/Gloob/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Canais",HBO
+http://STREAM_URL_AUMENTAR/HBO
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" group-title="Canais",HBO 2
+http://STREAM_URL_AUMENTAR/HBO 2
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" group-title="Canais",HBO Family
+http://STREAM_URL_AUMENTAR/HBO Family
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi" group-title="Canais",HBO Mundi
+http://STREAM_URL_AUMENTAR/HBO Mundi
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" group-title="Canais",HBO Plus
+http://STREAM_URL_AUMENTAR/HBO Plus
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop" group-title="Canais",HBO Pop
+http://STREAM_URL_AUMENTAR/HBO Pop
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" group-title="Canais",HBO Signature
+http://STREAM_URL_AUMENTAR/HBO Signature
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" group-title="Canais",HBO Xtreme
+http://STREAM_URL_AUMENTAR/HBO Xtreme
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Canais",HGTV
+http://STREAM_URL_AUMENTAR/HGTV
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Canais",History
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" group-title="Canais",History 2
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Investigação" tvg-name="Discovery Investigação" group-title="Canais",Discovery Investigação
+http://STREAM_URL_AUMENTAR/Discovery Investigação
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News" group-title="Canais",Jovem Pan News
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" group-title="Canais",Lifetime
+http://STREAM_URL_AUMENTAR/Lifetime
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" group-title="Canais",Megapix
+http://STREAM_URL_AUMENTAR/Megapix
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" group-title="Canais",Multishow
+http://STREAM_URL_AUMENTAR/Multishow
+#EXTINF:-1 tvg-id="Music Box Brasil" tvg-name="Music Box Brasil" group-title="Canais",Music Box Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="Nsports" tvg-name="Nsports" group-title="Canais",Nsports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1 tvg-id="Off" tvg-name="Off" group-title="Canais",Off
+http://STREAM_URL_AUMENTAR/Off
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" group-title="Canais",Premiere 2
+http://STREAM_URL_AUMENTAR/Premiere 2
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" group-title="Canais",Premiere 3
+http://STREAM_URL_AUMENTAR/Premiere 3
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" group-title="Canais",Premiere 4
+http://STREAM_URL_AUMENTAR/Premiere 4
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" group-title="Canais",Premiere 5
+http://STREAM_URL_AUMENTAR/Premiere 5
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" group-title="Canais",Premiere 6
+http://STREAM_URL_AUMENTAR/Premiere 6
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" group-title="Canais",Premiere 7
+http://STREAM_URL_AUMENTAR/Premiere 7
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" group-title="Canais",Premiere
+http://STREAM_URL_AUMENTAR/Premiere
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" group-title="Canais",Prime Box Brazil
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" group-title="Canais",Record News
+http://45.177.114.115/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="Record TV" tvg-name="Record TV" group-title="Canais",Record TV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" group-title="Canais",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel" group-title="Canais",Rede Gospel
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" group-title="Canais",Rede TV
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" group-title="Canais",Rede Vida
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Canais",SBT
+http://STREAM_URL_AUMENTAR/SBT
+#EXTINF:-1 tvg-id="SBT News" tvg-name="SBT News" group-title="Canais",SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="SBT Rio de Janeiro" tvg-name="SBT Rio de Janeiro" group-title="Canais",SBT Rio de Janeiro
+http://170.83.49.66:8083/REDECNTHD/index.m3u8
+#EXTINF:-1 tvg-id="SONY Movies" tvg-name="SONY Movies" group-title="Canais",SONY Movies
+http://45.177.114.115/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" group-title="Canais",Sony Channel
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" group-title="Canais",Space
+http://STREAM_URL_AUMENTAR/Space
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" group-title="Canais",SporTV
+http://195.178.110.110/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" group-title="Canais",SporTV 2
+http://195.178.110.110/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" group-title="Canais",SporTV 3
+http://195.178.110.110/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="SportyNet" tvg-name="SportyNet" group-title="Canais",SportyNet
+http://STREAM_URL_AUMENTAR/SportyNet
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" group-title="Canais",Studio Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-name="USA" group-title="Canais",USA
+http://STREAM_URL_AUMENTAR/USA
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" group-title="Canais",TCM
+http://STREAM_URL_AUMENTAR/TCM
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="Canais",TLC
+http://STREAM_URL_AUMENTAR/TLC
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" group-title="Canais",TNT
+http://STREAM_URL_AUMENTAR/TNT
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" group-title="Canais",TNT Novelas
+http://79.127.238.228:14455
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries" group-title="Canais",TNT Séries
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" group-title="Canais",TV Aparecida
+http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" group-title="Canais",TV Brasil
+http://45.177.114.115/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" group-title="Canais",TV Cultura
+http://45.177.114.115/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Câmara" group-title="Canais",TV Câmara
+http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
+#EXTINF:-1 tvg-id="TV Rá Tim Bum" tvg-name="TV Rá Tim Bum" group-title="Canais",TV Rá Tim Bum
+http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
+#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV Senado" group-title="Canais",TV Senado
+http://170.83.16.50/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" group-title="Canais",Telecine Action
+http://46.151.196.223:14326
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" group-title="Canais",Telecine Cult
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" group-title="Canais",Telecine Fun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" group-title="Canais",Telecine Pipoca
+http://46.151.196.223:14326
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" group-title="Canais",Telecine Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" group-title="Canais",Telecine Touch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" group-title="Canais",Terra Viva
+http://45.177.114.115/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" group-title="Canais",Tooncast
+http://STREAM_URL_AUMENTAR/Tooncast
+#EXTINF:-1 tvg-id="Travel Box Brasil" tvg-name="Travel Box Brasil" group-title="Canais",Travel Box Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="Tv Gazeta" tvg-name="Tv Gazeta" group-title="Canais",Tv Gazeta
+http://186.219.52.187/gazeta/index.m3u8
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" group-title="Canais",Universal TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-name="Globoplay Novelas" group-title="Canais",Globoplay Novelas
+http://79.127.238.228:14455
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" group-title="Canais",Warner Channel
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" group-title="Canais",Woohoo
+http://170.83.16.50/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="Xsports" tvg-name="Xsports" group-title="Canais",Xsports
+http://STREAM_URL_AUMENTAR/Xsports
+#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" group-title="Canais",truTV
+http://STREAM_URL_AUMENTAR/truTV
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" group-title="Canais",BBC World News
+http://STREAM_URL_AUMENTAR/BBC World News
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" group-title="Canais",Baby TV
+http://STREAM_URL_AUMENTAR/Baby TV
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" group-title="Canais",CNN International
+http://STREAM_URL_AUMENTAR/CNN International
+#EXTINF:-1 tvg-id="Canal 21" tvg-name="Canal 21" group-title="Canais",Canal 21
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" group-title="Canais",Canal Brasil
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" group-title="Canais",Canal do Boi
+http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" group-title="Canais",Deutsche Welle
+http://STREAM_URL_AUMENTAR/Deutsche Welle
+#EXTINF:-1 tvg-id="Eurochannel" tvg-name="Eurochannel" group-title="Canais",Eurochannel
+http://STREAM_URL_AUMENTAR/Eurochannel
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" group-title="Canais",Globo
+http://79.127.238.228:14093
+#EXTINF:-1 tvg-id="RAI International" tvg-name="RAI International" group-title="Canais",RAI International
+http://STREAM_URL_AUMENTAR/RAI International
+#EXTINF:-1 tvg-id="Rede Boa Vontade" tvg-name="Rede Boa Vontade" group-title="Canais",Rede Boa Vontade
+http://STREAM_URL_AUMENTAR/Rede Boa Vontade
+#EXTINF:-1 tvg-id="SIC International" tvg-name="SIC International" group-title="Canais",SIC International
+http://STREAM_URL_AUMENTAR/SIC International
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" group-title="Canais",TBS
+http://STREAM_URL_AUMENTAR/TBS
+#EXTINF:-1 tvg-id="TV Aparecida (aberta)" tvg-name="TV Aparecida (aberta)" group-title="Canais",TV Aparecida (aberta)
+http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" group-title="Canais",TV Escola
+http://STREAM_URL_AUMENTAR/TV Escola
+#EXTINF:-1 tvg-id="TV Espanha" tvg-name="TV Espanha" group-title="Canais",TV Espanha
+http://STREAM_URL_AUMENTAR/TV Espanha
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV Justiça" group-title="Canais",TV Justiça
+http://170.83.16.50/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="TV5 Monde" tvg-name="TV5 Monde" group-title="Canais",TV5 Monde
+http://STREAM_URL_AUMENTAR/TV5 Monde
+#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" group-title="Canais",Adult Swim
+http://STREAM_URL_AUMENTAR/Adult Swim
+#EXTINF:-1 tvg-id="BM&C News" tvg-name="BM&C News" group-title="Canais",BM&C News
+http://STREAM_URL_AUMENTAR/BM&C News
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" group-title="Canais",CNN
+http://STREAM_URL_AUMENTAR/CNN
+#EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money" group-title="Canais",CNN Brasil Money
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" group-title="Canais",DreamWorks
+http://STREAM_URL_AUMENTAR/DreamWorks
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" group-title="Canais",ZooMoo
+http://STREAM_URL_AUMENTAR/ZooMoo
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="Canais",FX
+http://STREAM_URL_AUMENTAR/FX
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" group-title="Canais",Fashion TV
+http://STREAM_URL_AUMENTAR/Fashion TV
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" group-title="Canais",Fish TV
+http://190.128.214.97:64333/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="LMC+" tvg-name="LMC+" group-title="Canais",LMC+
+http://STREAM_URL_AUMENTAR/LMC+
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" group-title="Canais",Mezzo
+http://STREAM_URL_AUMENTAR/Mezzo
+#EXTINF:-1 tvg-id="Modo Viagem" tvg-name="Modo Viagem" group-title="Canais",Modo Viagem
+http://STREAM_URL_AUMENTAR/Modo Viagem
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+" group-title="Canais",Paramount+
+http://STREAM_URL_AUMENTAR/Paramount+
+#EXTINF:-1 tvg-id="Paramount+ 2" tvg-name="Paramount+ 2" group-title="Canais",Paramount+ 2
+http://STREAM_URL_AUMENTAR/Paramount+ 2
+#EXTINF:-1 tvg-id="Paramount+ 3" tvg-name="Paramount+ 3" group-title="Canais",Paramount+ 3
+http://STREAM_URL_AUMENTAR/Paramount+ 3
+#EXTINF:-1 tvg-id="Paramount+ 4" tvg-name="Paramount+ 4" group-title="Canais",Paramount+ 4
+http://STREAM_URL_AUMENTAR/Paramount+ 4
+#EXTINF:-1 tvg-id="Premiere 24hs" tvg-name="Premiere 24hs" group-title="Canais",Premiere 24hs
+http://STREAM_URL_AUMENTAR/Premiere 24hs
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" group-title="Canais",Record
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor & Arte" group-title="Canais",Sabor & Arte
+http://STREAM_URL_AUMENTAR/Sabor & Arte
+#EXTINF:-1 tvg-id="SportyNet + 1" tvg-name="SportyNet + 1" group-title="Canais",SportyNet + 1
+http://STREAM_URL_AUMENTAR/SportyNet + 1
+#EXTINF:-1 tvg-id="SportyNet + 2" tvg-name="SportyNet + 2" group-title="Canais",SportyNet + 2
+http://STREAM_URL_AUMENTAR/SportyNet + 2
+#EXTINF:-1 tvg-id="SportyNet + 3" tvg-name="SportyNet + 3" group-title="Canais",SportyNet + 3
+http://STREAM_URL_AUMENTAR/SportyNet + 3
+#EXTINF:-1 tvg-id="Times Brasil | Licenciado Exclusivo CNBC" tvg-name="Times Brasil | Licenciado Exclusivo CNBC" group-title="Canais",Times Brasil | Licenciado Exclusivo CNBC
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+#EXTINF:-1 tvg-id="Trace Brasil" tvg-name="Trace Brasil" group-title="Canais",Trace Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="Trip Brasil Channel" tvg-name="Trip Brasil Channel" group-title="Canais",Trip Brasil Channel
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="Universal Premiere" tvg-name="Universal Premiere" group-title="Canais",Universal Premiere
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Universal Reality" tvg-name="Universal Reality" group-title="Canais",Universal Reality
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Yeeaah TV" tvg-name="Yeeaah TV" group-title="Canais",Yeeaah TV
+http://STREAM_URL_AUMENTAR/Yeeaah TV
+#EXTINF:-1 tvg-id="Globosat" tvg-name="Globosat" group-title="Canais",Globosat
+http://STREAM_URL_AUMENTAR/Globosat
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" group-title="Canais",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="Assembleia Legislativa Ceará HD" tvg-name="Assembleia Legislativa Ceará HD" group-title="Canais",Assembleia Legislativa Ceará HD
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" group-title="Canais",BBC News
+http://STREAM_URL_AUMENTAR/BBC News
+#EXTINF:-1 tvg-id="BH News TV" tvg-name="BH News TV" group-title="Canais",BH News TV
+http://STREAM_URL_AUMENTAR/BH News TV
+#EXTINF:-1 tvg-id="Band Amazonas" tvg-name="Band Amazonas" group-title="Canais",Band Amazonas
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band BH HD" tvg-name="Band BH HD" group-title="Canais",Band BH HD
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Bahia" tvg-name="Band Bahia" group-title="Canais",Band Bahia
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Belém" tvg-name="Band Belém" group-title="Canais",Band Belém
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Brasília" tvg-name="Band Brasília" group-title="Canais",Band Brasília
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Curitiba" tvg-name="Band Curitiba" group-title="Canais",Band Curitiba
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Maceió" tvg-name="Band Maceió" group-title="Canais",Band Maceió
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Mato Grosso" tvg-name="Band Mato Grosso" group-title="Canais",Band Mato Grosso
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Minas" tvg-name="Band Minas" group-title="Canais",Band Minas
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Natal HD" tvg-name="Band Natal HD" group-title="Canais",Band Natal HD
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Piauí HD" tvg-name="Band Piauí HD" group-title="Canais",Band Piauí HD
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Porto Alegre" tvg-name="Band Porto Alegre" group-title="Canais",Band Porto Alegre
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Rio" tvg-name="Band Rio" group-title="Canais",Band Rio
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Rio Grande do Sul HD" tvg-name="Band Rio Grande do Sul HD" group-title="Canais",Band Rio Grande do Sul HD
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band Roraima HD" tvg-name="Band Roraima HD" group-title="Canais",Band Roraima HD
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band São Luís - TV Maranhão" tvg-name="Band São Luís - TV Maranhão" group-title="Canais",Band São Luís - TV Maranhão
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band São Paulo" tvg-name="Band São Paulo" group-title="Canais",Band São Paulo
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band TV Goiânia" tvg-name="Band TV Goiânia" group-title="Canais",Band TV Goiânia
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade TV" group-title="Canais",Boa Vontade TV
+http://STREAM_URL_AUMENTAR/Boa Vontade TV
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" group-title="Canais",Boomerang HD
+http://STREAM_URL_AUMENTAR/Boomerang HD
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="Canais",CGTN
+http://STREAM_URL_AUMENTAR/CGTN
+#EXTINF:-1 tvg-id="CNN en Español HD" tvg-name="CNN en Español HD" group-title="Canais",CNN en Español HD
+http://STREAM_URL_AUMENTAR/CNN en Español HD
+#EXTINF:-1 tvg-id="CNT" tvg-name="CNT" group-title="Canais",CNT
+http://STREAM_URL_AUMENTAR/CNT
+#EXTINF:-1 tvg-id="CNT Bahía" tvg-name="CNT Bahía" group-title="Canais",CNT Bahía
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Canal Agromix" tvg-name="Canal Agromix" group-title="Canais",Canal Agromix
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal FDR HD" tvg-name="Canal FDR HD" group-title="Canais",Canal FDR HD
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-id="Canal Universitário CNU" tvg-name="Canal Universitário CNU" group-title="Canais",Canal Universitário CNU
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal Universitário TV UFSC" tvg-name="Canal Universitário TV UFSC" group-title="Canais",Canal Universitário TV UFSC
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Chef TV" tvg-name="Chef TV" group-title="Canais",Chef TV
+http://STREAM_URL_AUMENTAR/Chef TV
+#EXTINF:-1 tvg-id="Cine Brasil TV" tvg-name="Cine Brasil TV" group-title="Canais",Cine Brasil TV
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" group-title="Canais",Cultura
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="DOGTV" group-title="Canais",DOGTV
+http://STREAM_URL_AUMENTAR/DOGTV
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" group-title="Canais",Disney
+http://STREAM_URL_AUMENTAR/Disney
+#EXTINF:-1 tvg-id="E-Paraná HD" tvg-name="E-Paraná HD" group-title="Canais",E-Paraná HD
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="EPTV Sul de Minas HD" tvg-name="EPTV Sul de Minas HD" group-title="Canais",EPTV Sul de Minas HD
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" group-title="Canais",ESPN Brasil
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" group-title="Canais",ESPN Extra
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo" group-title="Canais",Esporte Interativo
+http://STREAM_URL_AUMENTAR/Esporte Interativo
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="FOX Sports" group-title="Canais",FOX Sports
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2" group-title="Canais",FOX Sports 2
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="Gazeta HD" tvg-name="Gazeta HD" group-title="Canais",Gazeta HD
+http://186.219.52.187/gazeta/index.m3u8
+#EXTINF:-1 tvg-id="Globo Amazonas" tvg-name="Globo Amazonas" group-title="Canais",Globo Amazonas
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo Anhanguera" tvg-name="Globo Anhanguera" group-title="Canais",Globo Anhanguera
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo Aracaju" tvg-name="Globo Aracaju" group-title="Canais",Globo Aracaju
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo Belo Horizonte" tvg-name="Globo Belo Horizonte" group-title="Canais",Globo Belo Horizonte
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasília" group-title="Canais",Globo Brasília
+http://79.127.238.228:14173
+#EXTINF:-1 tvg-id="Globo Natal" tvg-name="Globo Natal" group-title="Canais",Globo Natal
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" group-title="Canais",Globo Nordeste HD
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo RBS TV Poa" tvg-name="Globo RBS TV Poa" group-title="Canais",Globo RBS TV Poa
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ" group-title="Canais",Globo RJ
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo Recife" tvg-name="Globo Recife" group-title="Canais",Globo Recife
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo Rio HD" tvg-name="Globo Rio HD" group-title="Canais",Globo Rio HD
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo São Paulo HD" tvg-name="Globo São Paulo HD" group-title="Canais",Globo São Paulo HD
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo TV Bahia" tvg-name="Globo TV Bahia" group-title="Canais",Globo TV Bahia
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo TV Tribuna" tvg-name="Globo TV Tribuna" group-title="Canais",Globo TV Tribuna
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Globo Teresina" tvg-name="Globo Teresina" group-title="Canais",Globo Teresina
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" group-title="Canais",Golf Channel
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="Horizonte TV" tvg-name="Horizonte TV" group-title="Canais",Horizonte TV
+http://STREAM_URL_AUMENTAR/Horizonte TV
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="Ideal TV" group-title="Canais",Ideal TV
+http://STREAM_URL_AUMENTAR/Ideal TV
+#EXTINF:-1 tvg-id="InterTV Cabugi HD" tvg-name="InterTV Cabugi HD" group-title="Canais",InterTV Cabugi HD
+http://STREAM_URL_AUMENTAR/InterTV Cabugi HD
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD" tvg-name="InterTV Grande Minas HD" group-title="Canais",InterTV Grande Minas HD
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Loading" tvg-name="Loading" group-title="Canais",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MEGA TVHD" tvg-name="MEGA TVHD" group-title="Canais",MEGA TVHD
+http://STREAM_URL_AUMENTAR/MEGA TVHD
+#EXTINF:-1 tvg-id="MTV Brasil" tvg-name="MTV Brasil" group-title="Canais",MTV Brasil
+http://45.177.114.115/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="Max Up" tvg-name="Max Up" group-title="Canais",Max Up
+http://STREAM_URL_AUMENTAR/Max Up
+#EXTINF:-1 tvg-id="MaxPrime Panregional" tvg-name="MaxPrime Panregional" group-title="Canais",MaxPrime Panregional
+http://STREAM_URL_AUMENTAR/MaxPrime Panregional
+#EXTINF:-1 tvg-id="Maxprime" tvg-name="Maxprime" group-title="Canais",Maxprime
+http://STREAM_URL_AUMENTAR/Maxprime
+#EXTINF:-1 tvg-id="Maxprime*e" tvg-name="Maxprime*e" group-title="Canais",Maxprime*e
+http://STREAM_URL_AUMENTAR/Maxprime*e
+#EXTINF:-1 tvg-id="Mega TV (Brazil)" tvg-name="Mega TV (Brazil)" group-title="Canais",Mega TV (Brazil)
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+#EXTINF:-1 tvg-id="Meio Norte" tvg-name="Meio Norte" group-title="Canais",Meio Norte
+https://maystreaming.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 tvg-id="MultiCultura Educação" tvg-name="MultiCultura Educação" group-title="Canais",MultiCultura Educação
+http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" group-title="Canais",NBR
+http://STREAM_URL_AUMENTAR/NBR
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" group-title="Canais",NHK
+http://STREAM_URL_AUMENTAR/NHK
+#EXTINF:-1 tvg-id="NSC TV Blumenau HD" tvg-name="NSC TV Blumenau HD" group-title="Canais",NSC TV Blumenau HD
+http://STREAM_URL_AUMENTAR/NSC TV Blumenau HD
+#EXTINF:-1 tvg-id="NSC TV Chapecó HD" tvg-name="NSC TV Chapecó HD" group-title="Canais",NSC TV Chapecó HD
+http://STREAM_URL_AUMENTAR/NSC TV Chapecó HD
+#EXTINF:-1 tvg-id="NSC TV Criciúma" tvg-name="NSC TV Criciúma" group-title="Canais",NSC TV Criciúma
+http://STREAM_URL_AUMENTAR/NSC TV Criciúma
+#EXTINF:-1 tvg-id="NSC TV Florianópolis HD" tvg-name="NSC TV Florianópolis HD" group-title="Canais",NSC TV Florianópolis HD
+http://STREAM_URL_AUMENTAR/NSC TV Florianópolis HD
+#EXTINF:-1 tvg-id="NSC TV Joinville HD" tvg-name="NSC TV Joinville HD" group-title="Canais",NSC TV Joinville HD
+http://STREAM_URL_AUMENTAR/NSC TV Joinville HD
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" group-title="Canais",National Geographic
+http://STREAM_URL_AUMENTAR/National Geographic
+#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr. HD" group-title="Canais",Nick Jr. HD
+http://STREAM_URL_AUMENTAR/Nick Jr. HD
+#EXTINF:-1 tvg-id="NordesTV" tvg-name="NordesTV" group-title="Canais",NordesTV
+http://STREAM_URL_AUMENTAR/NordesTV
+#EXTINF:-1 tvg-id="PUC TV Goiás HD" tvg-name="PUC TV Goiás HD" group-title="Canais",PUC TV Goiás HD
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="Play TV" tvg-name="Play TV" group-title="Canais",Play TV
+http://45.177.114.115/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="PlayBoy HD" tvg-name="PlayBoy HD" group-title="Canais",PlayBoy HD
+http://STREAM_URL_AUMENTAR/PlayBoy HD
+#EXTINF:-1 tvg-id="Ponto Jus" tvg-name="Ponto Jus" group-title="Canais",Ponto Jus
+http://STREAM_URL_AUMENTAR/Ponto Jus
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8" group-title="Canais",Premiere 8
+http://STREAM_URL_AUMENTAR/Premiere 8
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="Premiere 9" group-title="Canais",Premiere 9
+http://STREAM_URL_AUMENTAR/Premiere 9
+#EXTINF:-1 tvg-id="RA TIM BUM" tvg-name="RA TIM BUM" group-title="Canais",RA TIM BUM
+http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
+#EXTINF:-1 tvg-id="RBA TV HD" tvg-name="RBA TV HD" group-title="Canais",RBA TV HD
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="RBI" tvg-name="RBI" group-title="Canais",RBI
+http://STREAM_URL_AUMENTAR/RBI
+#EXTINF:-1 tvg-id="RBS TV Florianópolis" tvg-name="RBS TV Florianópolis" group-title="Canais",RBS TV Florianópolis
+http://STREAM_URL_AUMENTAR/RBS TV Florianópolis
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD" tvg-name="RBS TV Porto Alegre HD" group-title="Canais",RBS TV Porto Alegre HD
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:-1 tvg-id="RBS TV Rio Grande HD" tvg-name="RBS TV Rio Grande HD" group-title="Canais",RBS TV Rio Grande HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RIC TV Curitiba HD" tvg-name="RIC TV Curitiba HD" group-title="Canais",RIC TV Curitiba HD
+https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="RIC TV Florianópolis HD" tvg-name="RIC TV Florianópolis HD" group-title="Canais",RIC TV Florianópolis HD
+http://STREAM_URL_AUMENTAR/RIC TV Florianópolis HD
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT" group-title="Canais",RIT
+http://STREAM_URL_AUMENTAR/RIT
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="RPC Curitiba" group-title="Canais",RPC Curitiba
+https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="RPC Foz do Iguaçu HD" group-title="Canais",RPC Foz do Iguaçu HD
+http://STREAM_URL_AUMENTAR/RPC Foz do Iguaçu HD
+#EXTINF:-1 tvg-id="RPC Maringá HD" tvg-name="RPC Maringá HD" group-title="Canais",RPC Maringá HD
+http://STREAM_URL_AUMENTAR/RPC Maringá HD
+#EXTINF:-1 tvg-id="RPC Paranavaí HD" tvg-name="RPC Paranavaí HD" group-title="Canais",RPC Paranavaí HD
+http://STREAM_URL_AUMENTAR/RPC Paranavaí HD
+#EXTINF:-1 tvg-id="RPC Ponta Grossa HD" tvg-name="RPC Ponta Grossa HD" group-title="Canais",RPC Ponta Grossa HD
+http://STREAM_URL_AUMENTAR/RPC Ponta Grossa HD
+#EXTINF:-1 tvg-id="RTP Internacional" tvg-name="RTP Internacional" group-title="Canais",RTP Internacional
+http://STREAM_URL_AUMENTAR/RTP Internacional
+#EXTINF:-1 tvg-id="RTPi RadioTV Portuguesa Int'l" tvg-name="RTPi RadioTV Portuguesa Int'l" group-title="Canais",RTPi RadioTV Portuguesa Int'l
+http://STREAM_URL_AUMENTAR/RTPi RadioTV Portuguesa Int'l
+#EXTINF:-1 tvg-id="Rai Italia" tvg-name="Rai Italia" group-title="Canais",Rai Italia
+http://STREAM_URL_AUMENTAR/Rai Italia
+#EXTINF:-1 tvg-id="Record Cuiabá HD" tvg-name="Record Cuiabá HD" group-title="Canais",Record Cuiabá HD
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record Porto Alegre HD" tvg-name="Record Porto Alegre HD" group-title="Canais",Record Porto Alegre HD
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="Record TV Bahia" group-title="Canais",Record TV Bahia
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record TV Brasília" tvg-name="Record TV Brasília" group-title="Canais",Record TV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="Record TV Campo Grande" tvg-name="Record TV Campo Grande" group-title="Canais",Record TV Campo Grande
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record TV Curitiba" tvg-name="Record TV Curitiba" group-title="Canais",Record TV Curitiba
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record TV Florianopolis" tvg-name="Record TV Florianopolis" group-title="Canais",Record TV Florianopolis
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record TV Goiás" tvg-name="Record TV Goiás" group-title="Canais",Record TV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="Record TV Itapoan HD" tvg-name="Record TV Itapoan HD" group-title="Canais",Record TV Itapoan HD
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="Record TV Minas" group-title="Canais",Record TV Minas
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record TV Porto Alegre" tvg-name="Record TV Porto Alegre" group-title="Canais",Record TV Porto Alegre
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Record TV RS" tvg-name="Record TV RS" group-title="Canais",Record TV RS
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="Record TV Rio" tvg-name="Record TV Rio" group-title="Canais",Record TV Rio
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RecordTV Belém" group-title="Canais",RecordTV Belém
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTV Cuiabá" tvg-name="RecordTV Cuiabá" group-title="Canais",RecordTV Cuiabá
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="RecordTV Paulista HD" tvg-name="RecordTV Paulista HD" group-title="Canais",RecordTV Paulista HD
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RecordTV São Paulo HD" group-title="Canais",RecordTV São Paulo HD
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="RecordTV Tocantins" tvg-name="RecordTV Tocantins" group-title="Canais",RecordTV Tocantins
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Rede 21 HD" tvg-name="Rede 21 HD" group-title="Canais",Rede 21 HD
+http://186.219.52.187/seculo21/index.m3u8
+#EXTINF:-1 tvg-id="Rede Amazônica Manaus HD" tvg-name="Rede Amazônica Manaus HD" group-title="Canais",Rede Amazônica Manaus HD
+http://STREAM_URL_AUMENTAR/Rede Amazônica Manaus HD
+#EXTINF:-1 tvg-id="Rede Amazônica Rio Branco" tvg-name="Rede Amazônica Rio Branco" group-title="Canais",Rede Amazônica Rio Branco
+http://170.83.49.66:8083/REDECNTHD/index.m3u8
+#EXTINF:-1 tvg-id="Rede Boas Novas" tvg-name="Rede Boas Novas" group-title="Canais",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede Difusora HD" tvg-name="Rede Difusora HD" group-title="Canais",Rede Difusora HD
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-id="Rede Familia" tvg-name="Rede Familia" group-title="Canais",Rede Familia
+http://186.219.52.187/rede_familia/index.m3u8
+#EXTINF:-1 tvg-id="Rede Gazeta" tvg-name="Rede Gazeta" group-title="Canais",Rede Gazeta
+http://186.219.52.187/gazeta/index.m3u8
+#EXTINF:-1 tvg-id="Rede Gênesis" tvg-name="Rede Gênesis" group-title="Canais",Rede Gênesis
+http://STREAM_URL_AUMENTAR/Rede Gênesis
+#EXTINF:-1 tvg-id="Rede Massa" tvg-name="Rede Massa" group-title="Canais",Rede Massa
+http://STREAM_URL_AUMENTAR/Rede Massa
+#EXTINF:-1 tvg-id="Rede Mercosul" tvg-name="Rede Mercosul" group-title="Canais",Rede Mercosul
+http://STREAM_URL_AUMENTAR/Rede Mercosul
+#EXTINF:-1 tvg-id="Rede Minas" tvg-name="Rede Minas" group-title="Canais",Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede NGT" tvg-name="Rede NGT" group-title="Canais",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="Rede NGT Nova Geracao de Televisao HD" tvg-name="Rede NGT Nova Geracao de Televisao HD" group-title="Canais",Rede NGT Nova Geracao de Televisao HD
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="Rede Record Maceio HD" tvg-name="Rede Record Maceio HD" group-title="Canais",Rede Record Maceio HD
+http://170.84.165.204/Record_HD/index.m3u8
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="Rede Super" group-title="Canais",Rede Super
+http://STREAM_URL_AUMENTAR/Rede Super
+#EXTINF:-1 tvg-id="Rede Século 21 HD" tvg-name="Rede Século 21 HD" group-title="Canais",Rede Século 21 HD
+http://186.219.52.187/seculo21/index.m3u8
+#EXTINF:-1 tvg-id="Rede TV Belem HD" tvg-name="Rede TV Belem HD" group-title="Canais",Rede TV Belem HD
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Rede Vida Belo Horizonte" tvg-name="Rede Vida Belo Horizonte" group-title="Canais",Rede Vida Belo Horizonte
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="Rede Vida Cascavel" tvg-name="Rede Vida Cascavel" group-title="Canais",Rede Vida Cascavel
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="Rede Vida Cuiaba" tvg-name="Rede Vida Cuiaba" group-title="Canais",Rede Vida Cuiaba
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="Rede Vida Goiania" tvg-name="Rede Vida Goiania" group-title="Canais",Rede Vida Goiania
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="Rede Vida Porto Alegre" tvg-name="Rede Vida Porto Alegre" group-title="Canais",Rede Vida Porto Alegre
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="Rede Vida Recife" tvg-name="Rede Vida Recife" group-title="Canais",Rede Vida Recife
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="Rede Vida Sao Luis" tvg-name="Rede Vida Sao Luis" group-title="Canais",Rede Vida Sao Luis
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="Rede Vida Vitoria" tvg-name="Rede Vida Vitoria" group-title="Canais",Rede Vida Vitoria
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="RedeTV! Belo Horizonte HD" tvg-name="RedeTV! Belo Horizonte HD" group-title="Canais",RedeTV! Belo Horizonte HD
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV! Fortaleza" tvg-name="RedeTV! Fortaleza" group-title="Canais",RedeTV! Fortaleza
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV! Manaus HD" tvg-name="RedeTV! Manaus HD" group-title="Canais",RedeTV! Manaus HD
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV! Natal" tvg-name="RedeTV! Natal" group-title="Canais",RedeTV! Natal
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV! Pampa" tvg-name="RedeTV! Pampa" group-title="Canais",RedeTV! Pampa
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV! Porto Velho" tvg-name="RedeTV! Porto Velho" group-title="Canais",RedeTV! Porto Velho
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV! Recife HD" tvg-name="RedeTV! Recife HD" group-title="Canais",RedeTV! Recife HD
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV! Rio de Janeiro HD" tvg-name="RedeTV! Rio de Janeiro HD" group-title="Canais",RedeTV! Rio de Janeiro HD
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV! Rôndonia HD" tvg-name="RedeTV! Rôndonia HD" group-title="Canais",RedeTV! Rôndonia HD
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-name="RedeTV! SP" group-title="Canais",RedeTV! SP
+https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV! Sul" tvg-name="RedeTV! Sul" group-title="Canais",RedeTV! Sul
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV! São Paulo HD" tvg-name="RedeTV! São Paulo HD" group-title="Canais",RedeTV! São Paulo HD
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="SBT Belem HD" tvg-name="SBT Belem HD" group-title="Canais",SBT Belem HD
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="SBT Brasilia" tvg-name="SBT Brasilia" group-title="Canais",SBT Brasilia
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="SBT Criciuma" tvg-name="SBT Criciuma" group-title="Canais",SBT Criciuma
+http://STREAM_URL_AUMENTAR/SBT Criciuma
+#EXTINF:-1 tvg-id="SBT Cuiabá" tvg-name="SBT Cuiabá" group-title="Canais",SBT Cuiabá
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT Goiania TV Serra Dourada" tvg-name="SBT Goiania TV Serra Dourada" group-title="Canais",SBT Goiania TV Serra Dourada
+http://STREAM_URL_AUMENTAR/SBT Goiania TV Serra Dourada
+#EXTINF:-1 tvg-id="SBT MS HD" tvg-name="SBT MS HD" group-title="Canais",SBT MS HD
+http://STREAM_URL_AUMENTAR/SBT MS HD
+#EXTINF:-1 tvg-id="SBT Maceio" tvg-name="SBT Maceio" group-title="Canais",SBT Maceio
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT Pará" tvg-name="SBT Pará" group-title="Canais",SBT Pará
+http://STREAM_URL_AUMENTAR/SBT Pará
+#EXTINF:-1 tvg-id="SBT Piaui" tvg-name="SBT Piaui" group-title="Canais",SBT Piaui
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT RS" tvg-name="SBT RS" group-title="Canais",SBT RS
+http://STREAM_URL_AUMENTAR/SBT RS
+#EXTINF:-1 tvg-id="SBT Rio" tvg-name="SBT Rio" group-title="Canais",SBT Rio
+http://STREAM_URL_AUMENTAR/SBT Rio
+#EXTINF:-1 tvg-id="SBT Santa Catarina HD" tvg-name="SBT Santa Catarina HD" group-title="Canais",SBT Santa Catarina HD
+https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT Sergipe" tvg-name="SBT Sergipe" group-title="Canais",SBT Sergipe
+http://STREAM_URL_AUMENTAR/SBT Sergipe
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" group-title="Canais",SBT São Paulo
+http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:-1 tvg-id="SBT TV Ponta Verde HD" tvg-name="SBT TV Ponta Verde HD" group-title="Canais",SBT TV Ponta Verde HD
+https://play.redecinturaoverde.com.br/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT Tocantins" tvg-name="SBT Tocantins" group-title="Canais",SBT Tocantins
+http://STREAM_URL_AUMENTAR/SBT Tocantins
+#EXTINF:-1 tvg-id="SBT Vitoria" tvg-name="SBT Vitoria" group-title="Canais",SBT Vitoria
+http://STREAM_URL_AUMENTAR/SBT Vitoria
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" group-title="Canais",SIC
+http://STREAM_URL_AUMENTAR/SIC
+#EXTINF:-1 tvg-id="Sesctv" tvg-name="Sesctv" group-title="Canais",Sesctv
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
+#EXTINF:-1 tvg-id="SexPrive Brasileirinhas" tvg-name="SexPrive Brasileirinhas" group-title="Canais",SexPrive Brasileirinhas
+http://STREAM_URL_AUMENTAR/SexPrive Brasileirinhas
+#EXTINF:-1 tvg-id="Sextreme Brazil" tvg-name="Sextreme Brazil" group-title="Canais",Sextreme Brazil
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="Sexy Hot" group-title="Canais",Sexy Hot
+http://STREAM_URL_AUMENTAR/Sexy Hot
+#EXTINF:-1 tvg-id="SonLife Broadcasting Network" tvg-name="SonLife Broadcasting Network" group-title="Canais",SonLife Broadcasting Network
+http://STREAM_URL_AUMENTAR/SonLife Broadcasting Network
+#EXTINF:-1 tvg-id="Sundance HD Brasil" tvg-name="Sundance HD Brasil" group-title="Canais",Sundance HD Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="Canais",TV 5
+http://STREAM_URL_AUMENTAR/TV 5
+#EXTINF:-1 tvg-id="TV A Crítica" tvg-name="TV A Crítica" group-title="Canais",TV A Crítica
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 tvg-id="TV AL" tvg-name="TV AL" group-title="Canais",TV AL
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 tvg-id="TV ALESP" tvg-name="TV ALESP" group-title="Canais",TV ALESP
+http://STREAM_URL_AUMENTAR/TV ALESP
+#EXTINF:-1 tvg-id="TV Aldeia" tvg-name="TV Aldeia" group-title="Canais",TV Aldeia
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Allamanda" tvg-name="TV Allamanda" group-title="Canais",TV Allamanda
+http://STREAM_URL_AUMENTAR/TV Allamanda
+#EXTINF:-1 tvg-id="TV Alterosa" tvg-name="TV Alterosa" group-title="Canais",TV Alterosa
+http://STREAM_URL_AUMENTAR/TV Alterosa
+#EXTINF:-1 tvg-id="TV Alvorada do Sul HD" tvg-name="TV Alvorada do Sul HD" group-title="Canais",TV Alvorada do Sul HD
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Amapá" tvg-name="TV Amapá" group-title="Canais",TV Amapá
+http://STREAM_URL_AUMENTAR/TV Amapá
+#EXTINF:-1 tvg-id="TV Amazônia" tvg-name="TV Amazônia" group-title="Canais",TV Amazônia
+http://STREAM_URL_AUMENTAR/TV Amazônia
+#EXTINF:-1 tvg-id="TV Ambiental" tvg-name="TV Ambiental" group-title="Canais",TV Ambiental
+http://STREAM_URL_AUMENTAR/TV Ambiental
+#EXTINF:-1 tvg-id="TV Anhanguera HD" tvg-name="TV Anhanguera HD" group-title="Canais",TV Anhanguera HD
+http://STREAM_URL_AUMENTAR/TV Anhanguera HD
+#EXTINF:-1 tvg-id="TV Anhanguera Palmas" tvg-name="TV Anhanguera Palmas" group-title="Canais",TV Anhanguera Palmas
+http://STREAM_URL_AUMENTAR/TV Anhanguera Palmas
+#EXTINF:-1 tvg-id="TV Antena 10" tvg-name="TV Antena 10" group-title="Canais",TV Antena 10
+http://STREAM_URL_AUMENTAR/TV Antena 10
+#EXTINF:-1 tvg-id="TV Aperipê" tvg-name="TV Aperipê" group-title="Canais",TV Aperipê
+http://STREAM_URL_AUMENTAR/TV Aperipê
+#EXTINF:-1 tvg-id="TV Apoio HD" tvg-name="TV Apoio HD" group-title="Canais",TV Apoio HD
+http://STREAM_URL_AUMENTAR/TV Apoio HD
+#EXTINF:-1 tvg-id="TV Arapuan" tvg-name="TV Arapuan" group-title="Canais",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Aratu" tvg-name="TV Aratu" group-title="Canais",TV Aratu
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Assembleia de Minas Gerais" tvg-name="TV Assembleia de Minas Gerais" group-title="Canais",TV Assembleia de Minas Gerais
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Atalaia" tvg-name="TV Atalaia" group-title="Canais",TV Atalaia
+http://STREAM_URL_AUMENTAR/TV Atalaia
+#EXTINF:-1 tvg-id="TV BRASIL RIO DE JANEIRO" tvg-name="TV BRASIL RIO DE JANEIRO" group-title="Canais",TV BRASIL RIO DE JANEIRO
+http://45.177.114.115/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TV BRASIL SÃO PAULO" tvg-name="TV BRASIL SÃO PAULO" group-title="Canais",TV BRASIL SÃO PAULO
+http://45.177.114.115/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="TV Bahia HD" group-title="Canais",TV Bahia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV Boa Vista HD" tvg-name="TV Boa Vista HD" group-title="Canais",TV Boa Vista HD
+http://STREAM_URL_AUMENTAR/TV Boa Vista HD
+#EXTINF:-1 tvg-id="TV Brasília" tvg-name="TV Brasília" group-title="Canais",TV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-name="TV Cabo Branco" group-title="Canais",TV Cabo Branco
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Capixaba" tvg-name="TV Capixaba" group-title="Canais",TV Capixaba
+http://STREAM_URL_AUMENTAR/TV Capixaba
+#EXTINF:-1 tvg-id="TV Catarina HD" tvg-name="TV Catarina HD" group-title="Canais",TV Catarina HD
+http://STREAM_URL_AUMENTAR/TV Catarina HD
+#EXTINF:-1 tvg-id="TV Catarina?" tvg-name="TV Catarina?" group-title="Canais",TV Catarina?
+http://STREAM_URL_AUMENTAR/TV Catarina?
+#EXTINF:-1 tvg-id="TV Ceará" tvg-name="TV Ceará" group-title="Canais",TV Ceará
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Centro América Cuiabá" tvg-name="TV Centro América Cuiabá" group-title="Canais",TV Centro América Cuiabá
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Cidadania" tvg-name="TV Cidadania" group-title="Canais",TV Cidadania
+http://STREAM_URL_AUMENTAR/TV Cidadania
+#EXTINF:-1 tvg-id="TV Cidade" tvg-name="TV Cidade" group-title="Canais",TV Cidade
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Cidade São Luis HD" tvg-name="TV Cidade São Luis HD" group-title="Canais",TV Cidade São Luis HD
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Cidade Verde HD" tvg-name="TV Cidade Verde HD" group-title="Canais",TV Cidade Verde HD
+https://play.redecinturaoverde.com.br/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Clube" tvg-name="TV Clube" group-title="Canais",TV Clube
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Comunicações Interativas HD" tvg-name="TV Comunicações Interativas HD" group-title="Canais",TV Comunicações Interativas HD
+http://STREAM_URL_AUMENTAR/TV Comunicações Interativas HD
+#EXTINF:-1 tvg-id="TV Comunitária" tvg-name="TV Comunitária" group-title="Canais",TV Comunitária
+http://STREAM_URL_AUMENTAR/TV Comunitária
+#EXTINF:-1 tvg-id="TV Correio" tvg-name="TV Correio" group-title="Canais",TV Correio
+http://STREAM_URL_AUMENTAR/TV Correio
+#EXTINF:-1 tvg-id="TV Difusora São Luís" tvg-name="TV Difusora São Luís" group-title="Canais",TV Difusora São Luís
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" group-title="Canais",TV Diário
+https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Educativa" tvg-name="TV Educativa" group-title="Canais",TV Educativa
+http://STREAM_URL_AUMENTAR/TV Educativa
+#EXTINF:-1 tvg-id="TV Educativa da Bahia HD" tvg-name="TV Educativa da Bahia HD" group-title="Canais",TV Educativa da Bahia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV Educativa de Porto Alegre HD" tvg-name="TV Educativa de Porto Alegre HD" group-title="Canais",TV Educativa de Porto Alegre HD
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Em Tempo HD" tvg-name="TV Em Tempo HD" group-title="Canais",TV Em Tempo HD
+http://186.219.52.187/novo_tempo/index.m3u8
+#EXTINF:-1 tvg-id="TV Equinócio" tvg-name="TV Equinócio" group-title="Canais",TV Equinócio
+http://STREAM_URL_AUMENTAR/TV Equinócio
+#EXTINF:-1 tvg-id="TV Feliz HD" tvg-name="TV Feliz HD" group-title="Canais",TV Feliz HD
+http://STREAM_URL_AUMENTAR/TV Feliz HD
+#EXTINF:-1 tvg-id="TV Gazeta Rio Branco" tvg-name="TV Gazeta Rio Branco" group-title="Canais",TV Gazeta Rio Branco
+http://186.219.52.187/gazeta/index.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="TV Gazeta Sul" group-title="Canais",TV Gazeta Sul
+http://186.219.52.187/gazeta/index.m3u8
+#EXTINF:-1 tvg-id="TV Guará HD" tvg-name="TV Guará HD" group-title="Canais",TV Guará HD
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Iguaçu HD" tvg-name="TV Iguaçu HD" group-title="Canais",TV Iguaçu HD
+http://STREAM_URL_AUMENTAR/TV Iguaçu HD
+#EXTINF:-1 tvg-id="TV Imperial" tvg-name="TV Imperial" group-title="Canais",TV Imperial
+http://STREAM_URL_AUMENTAR/TV Imperial
+#EXTINF:-1 tvg-id="TV Interativa" tvg-name="TV Interativa" group-title="Canais",TV Interativa
+http://STREAM_URL_AUMENTAR/TV Interativa
+#EXTINF:-1 tvg-id="TV Jangadeiro" tvg-name="TV Jangadeiro" group-title="Canais",TV Jangadeiro
+http://STREAM_URL_AUMENTAR/TV Jangadeiro
+#EXTINF:-1 tvg-id="TV Jornal" tvg-name="TV Jornal" group-title="Canais",TV Jornal
+http://STREAM_URL_AUMENTAR/TV Jornal
+#EXTINF:-1 tvg-id="TV Liberal" tvg-name="TV Liberal" group-title="Canais",TV Liberal
+http://STREAM_URL_AUMENTAR/TV Liberal
+#EXTINF:-1 tvg-id="TV MS HD" tvg-name="TV MS HD" group-title="Canais",TV MS HD
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Macapá HD" tvg-name="TV Macapá HD" group-title="Canais",TV Macapá HD
+https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Manaira HD" tvg-name="TV Manaira HD" group-title="Canais",TV Manaira HD
+http://STREAM_URL_AUMENTAR/TV Manaira HD
+#EXTINF:-1 tvg-id="TV Mar Alagoas" tvg-name="TV Mar Alagoas" group-title="Canais",TV Mar Alagoas
+http://STREAM_URL_AUMENTAR/TV Mar Alagoas
+#EXTINF:-1 tvg-id="TV Maranhense HD" tvg-name="TV Maranhense HD" group-title="Canais",TV Maranhense HD
+http://STREAM_URL_AUMENTAR/TV Maranhense HD
+#EXTINF:-1 tvg-id="TV Meridional" tvg-name="TV Meridional" group-title="Canais",TV Meridional
+http://STREAM_URL_AUMENTAR/TV Meridional
+#EXTINF:-1 tvg-id="TV Mirante São Luis HD" tvg-name="TV Mirante São Luis HD" group-title="Canais",TV Mirante São Luis HD
+http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:-1 tvg-id="TV Morena" tvg-name="TV Morena" group-title="Canais",TV Morena
+http://STREAM_URL_AUMENTAR/TV Morena
+#EXTINF:-1 tvg-id="TV Mundial" tvg-name="TV Mundial" group-title="Canais",TV Mundial
+http://STREAM_URL_AUMENTAR/TV Mundial
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" group-title="Canais",TV Novo Tempo
+http://186.219.52.187/novo_tempo/index.m3u8
+#EXTINF:-1 tvg-id="TV Omega" tvg-name="TV Omega" group-title="Canais",TV Omega
+http://STREAM_URL_AUMENTAR/TV Omega
+#EXTINF:-1 tvg-id="TV Pajuçara" tvg-name="TV Pajuçara" group-title="Canais",TV Pajuçara
+http://STREAM_URL_AUMENTAR/TV Pajuçara
+#EXTINF:-1 tvg-id="TV Pampa HD" tvg-name="TV Pampa HD" group-title="Canais",TV Pampa HD
+http://STREAM_URL_AUMENTAR/TV Pampa HD
+#EXTINF:-1 tvg-id="TV Pantanal" tvg-name="TV Pantanal" group-title="Canais",TV Pantanal
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Paraíba HD" tvg-name="TV Paraíba HD" group-title="Canais",TV Paraíba HD
+http://STREAM_URL_AUMENTAR/TV Paraíba HD
+#EXTINF:-1 tvg-id="TV Ponta Negra" tvg-name="TV Ponta Negra" group-title="Canais",TV Ponta Negra
+http://STREAM_URL_AUMENTAR/TV Ponta Negra
+#EXTINF:-1 tvg-id="TV Rio Branco" tvg-name="TV Rio Branco" group-title="Canais",TV Rio Branco
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="TV Rio Sul HD" tvg-name="TV Rio Sul HD" group-title="Canais",TV Rio Sul HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="TV Rondônia" tvg-name="TV Rondônia" group-title="Canais",TV Rondônia
+http://STREAM_URL_AUMENTAR/TV Rondônia
+#EXTINF:-1 tvg-id="TV Roraima HD" tvg-name="TV Roraima HD" group-title="Canais",TV Roraima HD
+http://STREAM_URL_AUMENTAR/TV Roraima HD
+#EXTINF:-1 tvg-id="TV Santa Cruz HD" tvg-name="TV Santa Cruz HD" group-title="Canais",TV Santa Cruz HD
+https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="TV Sergipe HD" group-title="Canais",TV Sergipe HD
+http://STREAM_URL_AUMENTAR/TV Sergipe HD
+#EXTINF:-1 tvg-id="TV Serra Dourada HD" tvg-name="TV Serra Dourada HD" group-title="Canais",TV Serra Dourada HD
+http://STREAM_URL_AUMENTAR/TV Serra Dourada HD
+#EXTINF:-1 tvg-id="TV São Luis HD" tvg-name="TV São Luis HD" group-title="Canais",TV São Luis HD
+http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:-1 tvg-id="TV Tambaú" tvg-name="TV Tambaú" group-title="Canais",TV Tambaú
+http://STREAM_URL_AUMENTAR/TV Tambaú
+#EXTINF:-1 tvg-id="TV Tribuna" tvg-name="TV Tribuna" group-title="Canais",TV Tribuna
+http://STREAM_URL_AUMENTAR/TV Tribuna
+#EXTINF:-1 tvg-id="TV Tropical" tvg-name="TV Tropical" group-title="Canais",TV Tropical
+http://STREAM_URL_AUMENTAR/TV Tropical
+#EXTINF:-1 tvg-id="TV Tucuju" tvg-name="TV Tucuju" group-title="Canais",TV Tucuju
+http://STREAM_URL_AUMENTAR/TV Tucuju
+#EXTINF:-1 tvg-id="TV UFSC HD" tvg-name="TV UFSC HD" group-title="Canais",TV UFSC HD
+http://STREAM_URL_AUMENTAR/TV UFSC HD
+#EXTINF:-1 tvg-id="TV Universidade de Porto Alegre" tvg-name="TV Universidade de Porto Alegre" group-title="Canais",TV Universidade de Porto Alegre
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:-1 tvg-id="TV União" tvg-name="TV União" group-title="Canais",TV União
+http://STREAM_URL_AUMENTAR/TV União
+#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-name="TV Verdes Mares" group-title="Canais",TV Verdes Mares
+http://STREAM_URL_AUMENTAR/TV Verdes Mares
+#EXTINF:-1 tvg-id="TV Vitória" tvg-name="TV Vitória" group-title="Canais",TV Vitória
+http://STREAM_URL_AUMENTAR/TV Vitória
+#EXTINF:-1 tvg-id="TVCI-TV COMUNICACOES INTERATIVAS LTDA" tvg-name="TVCI-TV COMUNICACOES INTERATIVAS LTDA" group-title="Canais",TVCI-TV COMUNICACOES INTERATIVAS LTDA
+http://STREAM_URL_AUMENTAR/TVCI-TV COMUNICACOES INTERATIVAS LTDA
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" group-title="Canais",TVE
+http://STREAM_URL_AUMENTAR/TVE
+#EXTINF:-1 tvg-id="TVE Bahia" tvg-name="TVE Bahia" group-title="Canais",TVE Bahia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TVT HD" tvg-name="TVT HD" group-title="Canais",TVT HD
+http://STREAM_URL_AUMENTAR/TVT HD
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" group-title="Canais",Telefe
+http://STREAM_URL_AUMENTAR/Telefe
+#EXTINF:-1 tvg-id="Univesp TV" tvg-name="Univesp TV" group-title="Canais",Univesp TV
+http://STREAM_URL_AUMENTAR/Univesp TV
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" group-title="Canais",VH1
+http://STREAM_URL_AUMENTAR/VH1
+#EXTINF:-1 tvg-id="VH1 Megahits" tvg-name="VH1 Megahits" group-title="Canais",VH1 Megahits
+http://STREAM_URL_AUMENTAR/VH1 Megahits
+#EXTINF:-1 tvg-id="Venus TV SD" tvg-name="Venus TV SD" group-title="Canais",Venus TV SD
+http://STREAM_URL_AUMENTAR/Venus TV SD
+#EXTINF:-1 tvg-id="Adrenalina Pura TV" tvg-name="Adrenalina Pura TV" group-title="Canais",Adrenalina Pura TV
+http://STREAM_URL_AUMENTAR/Adrenalina Pura TV
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" group-title="Canais",Bloomberg TV
+http://STREAM_URL_AUMENTAR/Bloomberg TV
+#EXTINF:-1 tvg-id="Box Kids TV" tvg-name="Box Kids TV" group-title="Canais",Box Kids TV
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="C3-TV" tvg-name="C3-TV" group-title="Canais",C3-TV
+http://STREAM_URL_AUMENTAR/C3-TV
+#EXTINF:-1 tvg-id="Canal Gov" tvg-name="Canal Gov" group-title="Canais",Canal Gov
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="Canal Off" tvg-name="Canal Off" group-title="Canais",Canal Off
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="DW (Deutsche Welle)" tvg-name="DW (Deutsche Welle)" group-title="Canais",DW (Deutsche Welle)
+http://STREAM_URL_AUMENTAR/DW (Deutsche Welle)
+#EXTINF:-1 tvg-id="DreamWorks Channel" tvg-name="DreamWorks Channel" group-title="Canais",DreamWorks Channel
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" group-title="Canais",E! Entertainment
+http://STREAM_URL_AUMENTAR/E! Entertainment
+#EXTINF:-1 tvg-id="FashionTV Brasil" tvg-name="FashionTV Brasil" group-title="Canais",FashionTV Brasil
+http://45.177.114.115/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="Filmelier TV" tvg-name="Filmelier TV" group-title="Canais",Filmelier TV
+http://STREAM_URL_AUMENTAR/Filmelier TV
+#EXTINF:-1 tvg-id="Fonte TV" tvg-name="Fonte TV" group-title="Canais",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" group-title="Canais",France 24
+http://STREAM_URL_AUMENTAR/France 24
+#EXTINF:-1 tvg-id="ID  Investigação Discovery" tvg-name="ID  Investigação Discovery" group-title="Canais",ID  Investigação Discovery
+http://STREAM_URL_AUMENTAR/ID  Investigação Discovery
+#EXTINF:-1 tvg-id="Markket" tvg-name="Markket" group-title="Canais",Markket
+http://STREAM_URL_AUMENTAR/Markket
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" group-title="Canais",NHK World
+http://STREAM_URL_AUMENTAR/NHK World
+#EXTINF:-1 tvg-id="Polishop" tvg-name="Polishop" group-title="Canais",Polishop
+http://STREAM_URL_AUMENTAR/Polishop
+#EXTINF:-1 tvg-id="RBI TV" tvg-name="RBI TV" group-title="Canais",RBI TV
+http://STREAM_URL_AUMENTAR/RBI TV
+#EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" group-title="Canais",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="Rede CNT" tvg-name="Rede CNT" group-title="Canais",Rede CNT
+http://170.83.49.66:8083/REDECNTHD/index.m3u8
+#EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime" group-title="Canais",Runtime
+http://STREAM_URL_AUMENTAR/Runtime
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-name="SIC Internacional" group-title="Canais",SIC Internacional
+http://STREAM_URL_AUMENTAR/SIC Internacional
+#EXTINF:-1 tvg-id="Sobrevivi" tvg-name="Sobrevivi" group-title="Canais",Sobrevivi
+http://STREAM_URL_AUMENTAR/Sobrevivi
+#EXTINF:-1 tvg-id="TV Canção Nova" tvg-name="TV Canção Nova" group-title="Canais",TV Canção Nova
+http://170.83.16.50/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar" group-title="Canais",TV Evangelizar
+http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="TV Globo" tvg-name="TV Globo" group-title="Canais",TV Globo
+http://79.127.238.228:14173
+#EXTINF:-1 tvg-id="TV Oeste" tvg-name="TV Oeste" group-title="Canais",TV Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno" group-title="Canais",TV Pai Eterno
+http://186.219.52.187/pai_eterno/index.m3u8
+#EXTINF:-1 tvg-id="TV Universal" tvg-name="TV Universal" group-title="Canais",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVE International" tvg-name="TVE International" group-title="Canais",TVE International
+http://STREAM_URL_AUMENTAR/TVE International
+#EXTINF:-1 tvg-id="Times Exclusivo CNBC" tvg-name="Times Exclusivo CNBC" group-title="Canais",Times Exclusivo CNBC
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+#EXTINF:-1 tvg-id="Travel & Food and Drinks" tvg-name="Travel & Food and Drinks" group-title="Canais",Travel & Food and Drinks
+http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
+#EXTINF:-1 tvg-id="UFC Fight Pass" tvg-name="UFC Fight Pass" group-title="Canais",UFC Fight Pass
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 tvg-id="Urban Docs" tvg-name="Urban Docs" group-title="Canais",Urban Docs
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Urban Drive" tvg-name="Urban Drive" group-title="Canais",Urban Drive
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Urban Kids" tvg-name="Urban Kids" group-title="Canais",Urban Kids
+http://STREAM_URL_AUMENTAR/Urban Kids
+#EXTINF:-1 tvg-id="Urban Movie" tvg-name="Urban Movie" group-title="Canais",Urban Movie
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="Urban Retro" tvg-name="Urban Retro" group-title="Canais",Urban Retro
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+#EXTINF:-1 tvg-id="Urban Series" tvg-name="Urban Series" group-title="Canais",Urban Series
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="Urban Travel" tvg-name="Urban Travel" group-title="Canais",Urban Travel
+http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
+#EXTINF:-1 tvg-id="ZooKids" tvg-name="ZooKids" group-title="Canais",ZooKids
+http://STREAM_URL_AUMENTAR/ZooKids
+#EXTINF:-1 tvg-id="Moove Cine" tvg-name="Moove Cine" group-title="Canais",Moove Cine
+http://STREAM_URL_AUMENTAR/Moove Cine
+#EXTINF:-1 tvg-id="Moove Cult" tvg-name="Moove Cult" group-title="Canais",Moove Cult
+http://STREAM_URL_AUMENTAR/Moove Cult
+#EXTINF:-1 tvg-id="Moove Explore" tvg-name="Moove Explore" group-title="Canais",Moove Explore
+http://STREAM_URL_AUMENTAR/Moove Explore
+#EXTINF:-1 tvg-id="Villa Kids" tvg-name="Villa Kids" group-title="Canais",Villa Kids
+http://STREAM_URL_AUMENTAR/Villa Kids
+#EXTINF:-1 tvg-id="BM&C" tvg-name="BM&C" group-title="Canais",BM&C
+http://STREAM_URL_AUMENTAR/BM&C
+#EXTINF:-1 tvg-id="CNN Money" tvg-name="CNN Money" group-title="Canais",CNN Money
+http://STREAM_URL_AUMENTAR/CNN Money
+#EXTINF:-1 tvg-id="Climatempo" tvg-name="Climatempo" group-title="Canais",Climatempo
+http://STREAM_URL_AUMENTAR/Climatempo
+#EXTINF:-1 tvg-id="Deutsche Welle (DW-TV)" tvg-name="Deutsche Welle (DW-TV)" group-title="Canais",Deutsche Welle (DW-TV)
+http://STREAM_URL_AUMENTAR/Deutsche Welle (DW-TV)
+#EXTINF:-1 tvg-id="GE" tvg-name="GE" group-title="Canais",GE
+http://STREAM_URL_AUMENTAR/GE
+#EXTINF:-1 tvg-id="Investigação Discovery (ID)" tvg-name="Investigação Discovery (ID)" group-title="Canais",Investigação Discovery (ID)
+http://STREAM_URL_AUMENTAR/Investigação Discovery (ID)
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK World Premium" group-title="Canais",NHK World Premium
+https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
+#EXTINF:-1 tvg-id="Premiere FC 4" tvg-name="Premiere FC 4" group-title="Canais",Premiere FC 4
+http://STREAM_URL_AUMENTAR/Premiere FC 4
+#EXTINF:-1 tvg-id="Premiere FC 5" tvg-name="Premiere FC 5" group-title="Canais",Premiere FC 5
+http://STREAM_URL_AUMENTAR/Premiere FC 5
+#EXTINF:-1 tvg-id="Premiere FC 6" tvg-name="Premiere FC 6" group-title="Canais",Premiere FC 6
+http://STREAM_URL_AUMENTAR/Premiere FC 6
+#EXTINF:-1 tvg-id="RAI" tvg-name="RAI" group-title="Canais",RAI
+http://STREAM_URL_AUMENTAR/RAI
+#EXTINF:-1 tvg-id="RB News" tvg-name="RB News" group-title="Canais",RB News
+http://STREAM_URL_AUMENTAR/RB News
+#EXTINF:-1 tvg-id="RBTV" tvg-name="RBTV" group-title="Canais",RBTV
+http://STREAM_URL_AUMENTAR/RBTV
+#EXTINF:-1 tvg-id="TBC" tvg-name="TBC" group-title="Canais",TBC
+http://STREAM_URL_AUMENTAR/TBC
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-name="TVE Internacional" group-title="Canais",TVE Internacional
+http://STREAM_URL_AUMENTAR/TVE Internacional
+#EXTINF:-1 tvg-id="The History Channel" tvg-name="The History Channel" group-title="Canais",The History Channel
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="Times Brasil (CNBC)" tvg-name="Times Brasil (CNBC)" group-title="Canais",Times Brasil (CNBC)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+#EXTINF:-1 tvg-id="Travel & Food" tvg-name="Travel & Food" group-title="Canais",Travel & Food
+http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
+#EXTINF:-1 tvg-id="UOL" tvg-name="UOL" group-title="Canais",UOL
+http://STREAM_URL_AUMENTAR/UOL
+#EXTINF:-1 tvg-id="Woohoo Surf" tvg-name="Woohoo Surf" group-title="Canais",Woohoo Surf
+http://170.83.16.50/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="Yupi" tvg-name="Yupi" group-title="Canais",Yupi
+http://STREAM_URL_AUMENTAR/Yupi
